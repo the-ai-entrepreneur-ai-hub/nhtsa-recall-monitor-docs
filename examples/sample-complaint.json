@@ -1,0 +1,50 @@
+{
+  "count": 199,
+  "message": "Results returned successfully",
+  "results": [
+    {
+      "odiNumber": 11741975,
+      "manufacturer": "Honda (American Honda Motor Co.)",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/28/2026",
+      "dateComplaintFiled": "06/04/2026",
+      "vin": "1HGCV1F37MA",
+      "components": "ENGINE",
+      "summary": "I am filing a complaint regarding the premature head gasket failure on my 2021 Honda Accord, which failed on May 28, 2026, with only 89,000 miles on the vehicle. A head gasket is a critical engine component that should last well beyond 89,000 miles under normal driving conditions and proper maintenance. After researching the issue, I found numerous reports from other Honda Accord owners experiencing similar head gasket failures, particularly in newer models equipped with the 1.5L turbocharged engine. Many owners report engine misfires, coolant loss, overheating, and costly repairs at relatively low mileage.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2021",
+          "productMake": "HONDA",
+          "productModel": "ACCORD",
+          "manufacturer": "Honda (American Honda Motor Co.)"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11741504,
+      "manufacturer": "Honda (American Honda Motor Co.)",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/18/2026",
+      "dateComplaintFiled": "06/02/2026",
+      "vin": "1HGCV1F3XMA",
+      "components": "ELECTRICAL SYSTEM",
+      "summary": "Odometer Fraud. The contact purchased a 2021 Honda Accord. The contact stated that while attempting to register the vehicle, it was discovered that there was a mileage discrepancy. The vehicle was a private sale. At the time of purchase, the vehicle mileage was 76,566 and at the time of registration, it was discovered that the mileage was 111,139.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2021",
+          "productMake": "HONDA",
+          "productModel": "ACCORD",
+          "manufacturer": "Honda (American Honda Motor Co.)"
+        }
+      ]
+    }
+  ]
+}

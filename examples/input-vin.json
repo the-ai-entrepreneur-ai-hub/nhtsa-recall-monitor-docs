@@ -1,0 +1,9 @@
+{
+  "mode": "vin",
+  "vins": [
+    "5J6RW2H89ML000000",
+    "1HGCV1F37MA000000"
+  ],
+  "includeRecalls": true,
+  "includeComplaints": false
+}

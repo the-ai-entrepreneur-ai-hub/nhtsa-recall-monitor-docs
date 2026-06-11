@@ -1,0 +1,10 @@
+{
+  "mode": "recalls",
+  "vehicles": [
+    { "make": "honda", "model": "accord", "modelYear": 2021 },
+    { "make": "toyota", "model": "rav4", "modelYear": 2022 },
+    { "make": "ford", "model": "f-150", "modelYear": 2020 }
+  ],
+  "includeComplaints": false,
+  "maxRecordsPerVehicle": 50
+}
