@@ -2,12 +2,12 @@
 
 One API to pull vehicle recalls, complaints, and VIN decodes from NHTSA, normalized into clean rows you can drop straight into a dataset.
 
-[![No API key](https://img.shields.io/badge/API_key-not_required-2ea44f?style=flat-square)](https://apify.com/george.the.developer/nhtsa-recall-monitor?source=github-nhtsa)
-[![Mode](https://img.shields.io/badge/mode-standby_%2B_batch-blue?style=flat-square)](https://apify.com/george.the.developer/nhtsa-recall-monitor?source=github-nhtsa)
-[![Pricing](https://img.shields.io/badge/pricing-pay_per_event-orange?style=flat-square)](https://apify.com/george.the.developer/nhtsa-recall-monitor?source=github-nhtsa)
+[![No API key](https://img.shields.io/badge/API_key-not_required-2ea44f?style=flat-square)](https://apify.com/george.the.developer/nhtsa-recall-monitor?fpr=bbquoh?source=github-nhtsa)
+[![Mode](https://img.shields.io/badge/mode-standby_%2B_batch-blue?style=flat-square)](https://apify.com/george.the.developer/nhtsa-recall-monitor?fpr=bbquoh?source=github-nhtsa)
+[![Pricing](https://img.shields.io/badge/pricing-pay_per_event-orange?style=flat-square)](https://apify.com/george.the.developer/nhtsa-recall-monitor?fpr=bbquoh?source=github-nhtsa)
 [![Source](https://img.shields.io/badge/source-NHTSA-lightgrey?style=flat-square)](https://www.nhtsa.gov/)
 
-This is the docs repo. The actor itself runs on Apify: **[george.the.developer/nhtsa-recall-monitor](https://apify.com/george.the.developer/nhtsa-recall-monitor?source=github-nhtsa)**.
+This is the docs repo. The actor itself runs on Apify: **[george.the.developer/nhtsa-recall-monitor](https://apify.com/george.the.developer/nhtsa-recall-monitor?fpr=bbquoh?source=github-nhtsa)**.
 
 ---
 
@@ -315,6 +315,6 @@ The actor handles NHTSA's limits for you with batching and retries. You hit the 
 
 Single lookups are fine from the standby endpoint. For thousands of vehicles, scheduled **automotive recall monitoring**, or a recurring **safety recall API** feed into your warehouse, run the actor on Apify and read the dataset.
 
-**[Open NHTSA Recall Monitor on Apify](https://apify.com/george.the.developer/nhtsa-recall-monitor?source=github-nhtsa)**
+**[Open NHTSA Recall Monitor on Apify](https://apify.com/george.the.developer/nhtsa-recall-monitor?fpr=bbquoh?source=github-nhtsa)**
 
 Data source: [NHTSA](https://www.nhtsa.gov/). This project is not affiliated with or endorsed by NHTSA.
